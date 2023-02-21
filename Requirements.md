@@ -1,16 +1,16 @@
 # Software
 
-Minecraft Java Edition (Tlauncher)
-Intellij idEa
+Minecraft Java Edition (Tlauncher) <br>
+Intellij IDEa <br>
 
 # Modifications
 
-Minecraft:
-        Forge
+Minecraft:<br>
+>   Forge
 
-Intellij:
-    Tabnine
-    Minecraft NBT 
-    Architectury
-    Minecraft Developement 
-    Selenium
+Intellij:<br>
+>    Tabnine <br>
+>    Minecraft NBT <br>
+>    Architectury <br>
+>    Minecraft Developement <br>
+>    Selenium <br>
