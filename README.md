@@ -1,3 +1,3 @@
 # Minecraft Project
 
->By Team OGS 
+>By Team OGS Vikings
